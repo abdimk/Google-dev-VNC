@@ -1,12 +1,24 @@
-<p align="center">
-<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hVbq7bF/unnamed.png" width="50" height="50" alt="Google developer console" /></a> &nbsp;
-<a><h1>Google Developer Console [Chrome Desktop]</h1></a> &nbsp;
-</p>
-
-<p align="center">
-<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/7090283e25728be63398f52ed09b43ed5380af1e/images/desktop.png" width="600" height="400" alt="Google developer console" /></a> &nbsp;
-</p>
-
+<div align="center">
+	<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hVbq7bF/unnamed.png" width="50" height="50" alt="Google developer console" /></a>
+ <h1>Google Developer Console [Chrome Desktop]</h1>
+	<div>
+  <div align="center">
+<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/7090283e25728be63398f52ed09b43ed5380af1e/images/desktop.png" width="600" height="400" alt="Google developer console" /></a>
+	<div>
+		<a href="">
+		<img src="https://shields.io/endpoint?url=https://badges.readysetplay.io/workflow/filiptibell/lune/ci.yaml" alt="CI status" />
+		</a>
+		<a href="">
+			<img src="https://shields.io/endpoint?url=https://badges.readysetplay.io/workflow/filiptibell/lune/ci.yaml" alt="CI status" />
+		</a>
+		<a href="">
+			<img src="https://shields.io/endpoint?url=https://badges.readysetplay.io/workflow/filiptibell/lune/release.yaml" alt="Release status" />
+		</a>
+		<a href="">
+			<img src="https://img.shields.io/github/license/filiptibell/lune.svg?label=License&color=informational" alt="Current Lune library version" />
+		</a>
+	</div>
+</div>
 ---
 ## Introduction
 <p>  This GitHub repository is a great resource for anyone looking to learn how to set up Chrome desktop view in the Google Developer Console. By following the instructions provided in the repository, you can easily configure your Google Developer Console to display your web pages as they would appear on a desktop browser. </p>
