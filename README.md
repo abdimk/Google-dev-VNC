@@ -34,5 +34,5 @@
 ### i abdisa will not be responsible for any activity you will be doing on the server ! 
 ## Installation
 
-<p>Head to Google Developer Console</p> => [link](https://console.cloud.google.com/)
+Head to Google Developer Console [link](https://console.cloud.google.com/)
 
