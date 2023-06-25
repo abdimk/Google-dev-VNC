@@ -1,9 +1,10 @@
 <div align="center">
 	<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hVbq7bF/unnamed.png" width="50" height="50" alt="Google developer console" /></a>
  <h1>Google Developer Console [Chrome Desktop]</h1>
-	<div>
+</div>
   <div align="center">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/7090283e25728be63398f52ed09b43ed5380af1e/images/desktop.png" width="600" height="400" alt="Google developer console" /></a>
+  </div>
 	<div>
 		<a href="">
 		<img src="https://shields.io/endpoint?url=https://badges.readysetplay.io/workflow/filiptibell/lune/ci.yaml" alt="CI status" />
