@@ -28,3 +28,8 @@
 
 <p>This can be incredibly useful for <strong>testing</strong> and <strong>debugging</strong> your web applications, and can help ensure that your users have the best possible experience when using your website.</p>
 ---
+
+## Where do we start? 
+
+### i abdisa will not be responsible for any activity you will be doing on the server ! 
+## Installation
