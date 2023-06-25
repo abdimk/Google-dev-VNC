@@ -40,7 +40,7 @@
 ### Note
 <p>This solution is not suitable for graphically intensive applications, including playing videos, because those typically require hardware graphics acceleration as well as a network that has high bandwidth and low latency. If you want to run graphically intense applications remotely, see the Creating a virtual GPU-accelerated Linux workstation tutorial for an alternative solution.</p>
 
-
+[Read more](https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine?_ga=2.54915049.-316264778.1626084193)
 ## Where do we start? 
 
 ### i abdisa will not be responsible for any activity you will be doing on the server ! 
