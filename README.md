@@ -76,3 +76,9 @@ Head to the dir
 ```diff
    cd Google-dev-VNC
 ```
+<br>
+copy the setup to home
+
+```diff
+cp setup.cpp ../
+```
