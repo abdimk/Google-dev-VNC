@@ -100,3 +100,13 @@ Head to remote desktop [Headless](https://remotedesktop.google.com/headless)
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/copy.png" width="500" height="180" alt="Google developer console" /></a>
   </div>
 <br>
+
+<p>Note: The authorization code in the command line is valid for only a few minutes, and you can use it only once.</p>
+
+<p>
+When you’re prompted, enter a 6-digit PIN. This number will be used for additional authorization when you connect later.
+	this will be in the terminal
+</p>
+
+Then Head to remote desktop[access](https://remotedesktop.google.com/access)
+<p> Enter the key </p>
