@@ -58,13 +58,13 @@
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/terminal.png" width="600" height="150" alt="Google developer console" /></a>
   </div>
   <br>
-  
-//Download the latest chrome desktop instance 
+<!--
+Download the latest chrome desktop instance 
  
-//```diff
-  // wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-//```
->
+diff
+ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+-->
+
 <br>
 Clone this github repository 
 
