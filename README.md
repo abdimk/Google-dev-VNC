@@ -105,10 +105,11 @@ Head to remote desktop [Headless](https://remotedesktop.google.com/headless)
 
 <p>
 When you’re prompted, enter a <strong>6-digit PIN</strong>. This number will be used for additional authorization when you connect later.
+	<br>
 	<strong>This will be in the terminal</strong>
 </p>
 
-Then Head to remote desktop [access](https://remotedesktop.google.com/access)
+- Then Head to remote desktop [access](https://remotedesktop.google.com/access)
 
 <div align="left">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/enter_key.png" width="600" height="300" alt="Google developer console" /></a>
