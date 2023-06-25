@@ -8,8 +8,7 @@
 </p>
 
 <h1><strong><center></strong>Google Developer Console [Chrome Desktop]</center></strong></h1>
-//
 </p>
 <p align="center">
-<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/ZSnfGXZ/desktop.png" width="50" height="50" alt="Google developer console" /></a> &nbsp;
+<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/ZSnfGXZ/desktop.png" width="200" height="200" alt="Google developer console" /></a> &nbsp;
 </p>
