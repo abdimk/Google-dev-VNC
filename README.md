@@ -74,7 +74,7 @@ Head to the dir
 copy the setup.py to home
 
 ```diff
-cp setup.py ../
+cp setup.py ../ && cd ..
 ```
 
 <br>
