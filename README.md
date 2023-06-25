@@ -115,6 +115,6 @@ When you’re prompted, enter a <strong>6-digit PIN</strong>. This number will b
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/enter_key.png" width="600" height="300" alt="Google developer console" /></a>
   </div>
 <br>
-<p> Enter the the 6-digit PIN that you enterd in terminal </p>
+- Enter the the 6-digit PIN that you enterd in terminal 
 <br>
 <p>If the service is running, you see output that includes the state</p>
