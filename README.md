@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hVbq7bF/unnamed.png" width="50" height="50" alt="Google developer console" /></a> &nbsp;
-<a><h1>Google Developer Console [Chrome Desktop</h1></a>
+<a><h1>Google Developer Console [Chrome Desktop</h1></a> &nbsp;
 </p>
 
 </p>
