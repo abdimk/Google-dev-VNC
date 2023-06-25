@@ -33,6 +33,6 @@
 
 ### i abdisa will not be responsible for any activity you will be doing on the server ! 
 ## Installation
-```diff
-head to Google Developer console => [GDC](https://console.cloud.google.com/)
-```
+
+<p>Head to Google Developer Console => [clickme](https://console.cloud.google.com/)</p>
+
