@@ -57,6 +57,7 @@
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/terminal.png" width="600" height="150" alt="Google developer console" /></a>
   </div>
 Clone the github repo 
-  ```diff
-git clone https://github.com/abdimk/Google-dev-VNC/
+ 
+```diff
+   git clone https://github.com/abdimk/Google-dev-VNC/
 ```
