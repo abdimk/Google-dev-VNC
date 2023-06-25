@@ -38,7 +38,7 @@
 
 
 ### Note
-<p>Note: This solution is not suitable for graphically intensive applications, including playing videos, because those typically require hardware graphics acceleration as well as a network that has high bandwidth and low latency. If you want to run graphically intense applications remotely, see the Creating a virtual GPU-accelerated Linux workstation tutorial for an alternative solution.</p>
+<p>This solution is not suitable for graphically intensive applications, including playing videos, because those typically require hardware graphics acceleration as well as a network that has high bandwidth and low latency. If you want to run graphically intense applications remotely, see the Creating a virtual GPU-accelerated Linux workstation tutorial for an alternative solution.</p>
 
 
 ## Where do we start? 
