@@ -89,7 +89,7 @@ Head to remote desktop [Headless](https://remotedesktop.google.com/headless)
 
 <br>
 <div align="left">
-<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/begin.png" width="500" height="200" alt="Google developer console" /></a>
+<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/begin.png" width="500" height="170" alt="Google developer console" /></a>
   </div>
   <br>
 <p><strong>Next </strong>, <strong>Begin</strong>, <strong>Authorize</strong></p>
