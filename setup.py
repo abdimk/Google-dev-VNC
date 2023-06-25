@@ -5,7 +5,8 @@ import time
 
 def install():
     commands = ["sudo apt-get upadte",
-    "sudo apt-get install --assume-yes ./chrome-remote-desktop_current_amd64.deb",
+    "sudo apt-get install fonts-liberation libu2f-udev xdg-utils -y",
+    "wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb && sudo apt-get install --assume-yes ./chrome-remote-desktop_current_amd64.deb",
     "sudo apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver",
     "sudo apt install xfce4-terminal -y",
     "sudo apt install firefox-esr -y",

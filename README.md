@@ -82,3 +82,6 @@ copy the setup to home
 ```diff
 cp setup.cpp ../
 ```
+
+
+// cp first.py ../ && cp second.py ../
