@@ -14,9 +14,7 @@
 		<a href="">
 			<img src="https://shields.io/endpoint?url=https://badges.readysetplay.io/workflow/filiptibell/lune/release.yaml" alt="Release status" />
 		</a>
-		<a href="">
-			<img src="https://img.shields.io/github/license/filiptibell/lune.svg?label=License&color=informational" alt="Current Lune library version" />
-		</a>
+		
 	</div>
 </div>
 
