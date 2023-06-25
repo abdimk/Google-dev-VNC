@@ -104,8 +104,8 @@ Head to remote desktop [Headless](https://remotedesktop.google.com/headless)
 <p>Note: The authorization code in the command line is valid for only a few minutes, and you can use it only once.</p>
 
 <p>
-When you’re prompted, enter a 6-digit PIN. This number will be used for additional authorization when you connect later.
-	this will be in the terminal
+When you’re prompted, enter a <strong>6-digit PIN</strong>. This number will be used for additional authorization when you connect later.
+	<strong>This will be in the terminal</strong>
 </p>
 
 Then Head to remote desktop [access](https://remotedesktop.google.com/access)
