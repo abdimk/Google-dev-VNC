@@ -78,6 +78,10 @@ cp setup.py ../
 ```
 <br>
 run the setup
+
 ```diff
 python setup.py
 ```
+
+Head to remote desktop[headless]https://remotedesktop.google.com/headless
+<p><strong>Next</strong>,<strong>Begin</strong>,<strong>Authorize</strong></p>
