@@ -93,9 +93,7 @@ Head to remote desktop [Headless](https://remotedesktop.google.com/headless)
   </div>
   <br>
 <p><strong>Next </strong>, <strong>Begin</strong>, <strong>Authorize</strong></p>
-
-// 
-
+<br>
 <p>You need to allow Chrome Remote Desktop to access your account. If you approve, the page displays a command line for Debian Linux copy and paste the authorization code to the terminal</p>
 <br>
 <div align="left">
