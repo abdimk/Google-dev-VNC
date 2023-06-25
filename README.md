@@ -76,11 +76,7 @@ copy the setup.py to home
 ```diff
 cp setup.py ../
 ```
-<<<<<<< HEAD
 
-
-// cp first.py ../ && cp second.py ../
-=======
 <br>
 run the setup
 
@@ -88,6 +84,10 @@ run the setup
 python setup.py
 ```
 
-Head to remote desktop[headless]https://remotedesktop.google.com/headless
-<p><strong>Next</strong>,<strong>Begin</strong>,<strong>Authorize</strong></p>
->>>>>>> 2f67c0baf6432ed96f4e23d19c186d4b5366c827
+Head to remote desktop[Headless](https://remotedesktop.google.com/headless)
+<br>
+<p><strong>Next, </strong>, Begin<strong></strong>, <strong>Authorize</strong></p>
+<br>
+<div align="left">
+<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/terminal.png" width="600" height="150" alt="Google developer console" /></a>
+  </div>
