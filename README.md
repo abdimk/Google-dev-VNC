@@ -57,12 +57,6 @@
 <div align="left">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/terminal.png" width="600" height="150" alt="Google developer console" /></a>
   </div>
-  <br>
-Download the latest chrome desktop instance 
- 
-```diff
-   wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-```
 
 <br>
 Clone this github repository 
@@ -77,11 +71,23 @@ Head to the dir
    cd Google-dev-VNC
 ```
 <br>
-copy the setup to home
+copy the setup.py to home
 
 ```diff
-cp setup.cpp ../
+cp setup.py ../
 ```
+<<<<<<< HEAD
 
 
 // cp first.py ../ && cp second.py ../
+=======
+<br>
+run the setup
+
+```diff
+python setup.py
+```
+
+Head to remote desktop[headless]https://remotedesktop.google.com/headless
+<p><strong>Next</strong>,<strong>Begin</strong>,<strong>Authorize</strong></p>
+>>>>>>> 2f67c0baf6432ed96f4e23d19c186d4b5366c827
