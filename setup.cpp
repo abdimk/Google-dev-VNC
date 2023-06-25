@@ -85,6 +85,7 @@ void install()
         system("sudo apt-get install vim-gtk3 -y");
         system("sudo apt install iputils-ping -y");
 
+
         std::cout<<"installation completed..."<<std::endl;
 
 
