@@ -36,6 +36,11 @@
 - Set up an X Window System desktop environment in the VM instance.
 - Connect from your local computer to the desktop environment on the VM instance.
 
+
+### Note
+<p>Note: This solution is not suitable for graphically intensive applications, including playing videos, because those typically require hardware graphics acceleration as well as a network that has high bandwidth and low latency. If you want to run graphically intense applications remotely, see the Creating a virtual GPU-accelerated Linux workstation tutorial for an alternative solution.</p>
+
+
 ## Where do we start? 
 
 ### i abdisa will not be responsible for any activity you will be doing on the server ! 
