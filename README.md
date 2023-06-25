@@ -86,7 +86,7 @@ python setup.py
 
 Head to remote desktop[Headless](https://remotedesktop.google.com/headless)
 <br>
-<p><strong>Next, </strong>, Begin<strong></strong>, <strong>Authorize</strong></p>
+<p><strong>Next, </strong>, <strong>Begin</strong>, <strong>Authorize</strong></p>
 <br>
 <div align="left">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/terminal.png" width="600" height="150" alt="Google developer console" /></a>
