@@ -18,5 +18,7 @@ def install():
         time.sleep(2)
         os.system(commands[i])
 
+    print("VNC is Running...")
+
 install()
 
