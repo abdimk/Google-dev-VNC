@@ -43,7 +43,7 @@
 [Read more](https://cloud.google.com/architecture/chrome-desktop-remote-on-compute-engine?_ga=2.54915049.-316264778.1626084193)
 ## Where do we start? 
 
-### i abdisa will not be responsible for any activity you will be doing on the server ! 
+
 ## Installation
 
 - Head to Google Developer Console [console.clould.google.com](https://console.cloud.google.com/)
@@ -115,6 +115,8 @@ When you’re prompted, enter a <strong>6-digit PIN</strong>. This number will b
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/enter_key.png" width="600" height="300" alt="Google developer console" /></a>
   </div>
 <br>
-- Enter the the 6-digit PIN that you enterd in terminal 
+- Enter the the 6-digit PIN that you enterd in <strong>terminal</strong> 
 <br>
-<p>If the service is running, you see output that includes the state</p>
+<p>If the service is <strong>running</strong>, you see output that includes the state</p>
+
+
