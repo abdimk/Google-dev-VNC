@@ -15,7 +15,7 @@
 			<img src="https://shields.io/endpoint?url=https://badges.readysetplay.io/workflow/filiptibell/lune/release.yaml" alt="Release status" />
 		</a>
 		
-	</div>
+
 </div>
 
 
