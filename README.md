@@ -97,6 +97,6 @@ Head to remote desktop [Headless](https://remotedesktop.google.com/headless)
 <p>You need to allow Chrome Remote Desktop to access your account. If you approve, the page displays a command line for Debian Linux copy and paste the authorization code to the terminal</p>
 <br>
 <div align="left">
-<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/copy.png" width="1366" height="419" alt="Google developer console" /></a>
+<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/copy.png" width="1366" height="200" alt="Google developer console" /></a>
   </div>
 <br>
