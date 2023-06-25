@@ -56,8 +56,8 @@
 <div align="left">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/terminal.png" width="600" height="150" alt="Google developer console" /></a>
   </div>
-Clone the github repo 
+Download the latest chrome desktop instance 
  
 ```diff
-   git clone https://github.com/abdimk/Google-dev-VNC/
+   wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ```
