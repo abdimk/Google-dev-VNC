@@ -6,8 +6,7 @@
 <p align="center">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hVbq7bF/unnamed.png" width="50" height="50" alt="Google developer console" /></a> &nbsp;
 </p>
-
-<h1><br><center>Google Developer Console [Chrome Desktop]</center></h1>
+<h1><center>Google Developer Console [Chrome Desktop]</center></h1>
 </p>
 <p align="center">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/7090283e25728be63398f52ed09b43ed5380af1e/images/desktop.png" width="600" height="400" alt="Google developer console" /></a> &nbsp;
