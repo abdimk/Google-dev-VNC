@@ -24,7 +24,7 @@
 
 ---
 ## Introduction
-<p>  This GitHub repository is a great resource for anyone looking to learn how to set up Chrome desktop view in the Google Developer Console. By following the instructions provided in the repository, you can easily configure your Google Developer Console to display your web pages as they would appear on a desktop browser. </p>
+<p>  This GitHub repository is a great resource for anyone looking to learn how to set up <strong>Chrome desktop </strong>view in the Google Developer Console. By following the instructions provided in the repository, you can easily <strong>configure</strong> your Google Developer Console to display your web pages as they would appear on a desktop browser. </p>
 
-<p>This can be incredibly useful for testing and debugging your web applications, and can help ensure that your users have the best possible experience when using your website.</p>
+<p>This can be incredibly useful for <strong>testing</strong> and <strong>debugging</strong> your web applications, and can help ensure that your users have the best possible experience when using your website.</p>
 ---
