@@ -41,7 +41,7 @@
 ### i abdisa will not be responsible for any activity you will be doing on the server ! 
 ## Installation
 
-Head to Google Developer Console [console.clould.google.com](https://console.cloud.google.com/)
+- Head to Google Developer Console [console.clould.google.com](https://console.cloud.google.com/)
 <div align="left">
 <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/abdimk/Google-dev-VNC/blob/main/images/1_ex.jpg" width="500" height="150" alt="Google developer console" /></a>
   </div>
