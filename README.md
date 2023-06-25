@@ -29,6 +29,13 @@
 <p>This can be incredibly useful for <strong>testing</strong> and <strong>debugging</strong> your web applications, and can help ensure that your users have the best possible experience when using your website.</p>
 ---
 
+## Objectives
+
+- Create a headless Compute Engine VM instance to run Chrome Remote Desktop on.
+- Install and configure the Chrome Remote Desktop service on the VM instance.
+- Set up an X Window System desktop environment in the VM instance.
+- Connect from your local computer to the desktop environment on the VM instance.
+
 ## Where do we start? 
 
 ### i abdisa will not be responsible for any activity you will be doing on the server ! 
